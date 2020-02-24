@@ -1,0 +1,16 @@
+C:\Users\orkhan\source\repos\dotNetFourWebSocket\dotNetFourWebSocket\bin\Debug\dotNetFourWebSocket.exe.config
+C:\Users\orkhan\source\repos\dotNetFourWebSocket\dotNetFourWebSocket\bin\Debug\dotNetFourWebSocket.exe
+C:\Users\orkhan\source\repos\dotNetFourWebSocket\dotNetFourWebSocket\bin\Debug\dotNetFourWebSocket.pdb
+C:\Users\orkhan\source\repos\dotNetFourWebSocket\dotNetFourWebSocket\bin\Debug\log4net.dll
+C:\Users\orkhan\source\repos\dotNetFourWebSocket\dotNetFourWebSocket\bin\Debug\Newtonsoft.Json.dll
+C:\Users\orkhan\source\repos\dotNetFourWebSocket\dotNetFourWebSocket\bin\Debug\SuperSocket.Common.dll
+C:\Users\orkhan\source\repos\dotNetFourWebSocket\dotNetFourWebSocket\bin\Debug\SuperSocket.Facility.dll
+C:\Users\orkhan\source\repos\dotNetFourWebSocket\dotNetFourWebSocket\bin\Debug\SuperSocket.SocketBase.dll
+C:\Users\orkhan\source\repos\dotNetFourWebSocket\dotNetFourWebSocket\bin\Debug\SuperSocket.SocketEngine.dll
+C:\Users\orkhan\source\repos\dotNetFourWebSocket\dotNetFourWebSocket\bin\Debug\SuperWebSocket.dll
+C:\Users\orkhan\source\repos\dotNetFourWebSocket\dotNetFourWebSocket\bin\Debug\log4net.xml
+C:\Users\orkhan\source\repos\dotNetFourWebSocket\dotNetFourWebSocket\bin\Debug\Newtonsoft.Json.xml
+C:\Users\orkhan\source\repos\dotNetFourWebSocket\dotNetFourWebSocket\obj\Debug\dotNetFourWebSocket.csprojAssemblyReference.cache
+C:\Users\orkhan\source\repos\dotNetFourWebSocket\dotNetFourWebSocket\obj\Debug\dotNetFourWebSocket.csproj.CopyComplete
+C:\Users\orkhan\source\repos\dotNetFourWebSocket\dotNetFourWebSocket\obj\Debug\dotNetFourWebSocket.exe
+C:\Users\orkhan\source\repos\dotNetFourWebSocket\dotNetFourWebSocket\obj\Debug\dotNetFourWebSocket.pdb
